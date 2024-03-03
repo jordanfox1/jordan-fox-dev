@@ -30,7 +30,7 @@
             "title": "Imgswitch",
             "description": "Imgswitch is a free online image conversion tool. It is used to quickly and easily convert images between a range of supported formats like JPG, PNG, WebP, SVG, etc.",
             "imageSrc": "/images/imgswitch-2.webp",
-            "url": "https://www.imgswitch.com/"
+            "url": "https://img-switch-frontend-production.up.railway.app/"
         },
         {
             "id": "2",
